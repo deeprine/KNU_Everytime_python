@@ -68,4 +68,4 @@
 * PPT 작성 및 코드 정리
 
 
-![rank](./Screenshot_20201119-223950 (1).jpg)
+![Screenshot_20201119-223950 (1)](./Screenshot_20201119-223950 (1).jpg)
